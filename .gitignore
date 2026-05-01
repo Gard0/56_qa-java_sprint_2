@@ -1,7 +1,3 @@
-/target/
-/.idea/
+target/
+.idea/
 *.iml
-.DS_Store
-Thumbs.db
-*.log
-*.class
